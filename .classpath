@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="ClienteTragamonedas/src"/>
+	<classpathentry kind="src" path="ServidorTragamonedas/src"/>
+	<classpathentry kind="lib" path="ClienteTragamonedas/ClienteTragamonedas.jar"/>
+	<classpathentry kind="lib" path="ServidorTragamonedas/ServidorTragamonedas_lib/sqlite-jdbc-3.16.1.jar"/>
+	<classpathentry kind="lib" path="ServidorTragamonedas/ServidorTragamonedas.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="ClienteTragamonedas/bin"/>
+</classpath>
